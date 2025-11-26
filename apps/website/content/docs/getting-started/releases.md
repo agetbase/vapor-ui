@@ -3,6 +3,20 @@ title: Releases
 description: 각 Vapor UI 릴리스의 Changelogs입니다.
 ---
 
+## 1.0.0
+
+### @vapor-ui/core
+
+#### Minor Changes
+
+- 1aecc3d: synchronized color tokens with figma
+
+#### Patch Changes
+
+- 1fd7efc: Updated Menu.Item paddingRight from 6px to 12px to match Figma design specification
+
+---
+
 ## 1.0.0-beta.6
 
 ### @vapor-ui/codemod
